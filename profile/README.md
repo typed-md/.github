@@ -6,3 +6,7 @@
 
 - [ ] Dark mode, custom themes.
 - [ ] Markdown paste handler: support math parsing, fix image tag handling.
+
+## Known bugs
+
+- [ ] Drag handle doesn't work on first element.
