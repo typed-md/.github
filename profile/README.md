@@ -4,6 +4,7 @@
 
 ## Roadmap
 
+- [ ] Better note/folder renaming UI.
 - [ ] Dark mode, custom themes.
 - [ ] Markdown paste handler: support math parsing, fix image tag handling.
 
